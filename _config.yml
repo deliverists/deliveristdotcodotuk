@@ -1,13 +1,9 @@
-theme: jekyll-material-theme
-
 title: Deliverist
 name: Deliverist LIMITED
 email: nick@deliverist.co.uk
 description: The science of software delivery
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
-
-theme: jekyll-material-theme
 
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
