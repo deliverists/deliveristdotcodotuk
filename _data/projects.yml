@@ -1,0 +1,8 @@
+- title: Waitrose
+  description: Led the rebuild of their frontend as a React/Redux SPA. Part of an agile transformation and replatforming to AWS Serverless technologies.
+  url: https://waitrose.com
+  icon: local_grocery_store # these are from materiailize css, the full collection is here: http://materializecss.com/icons.html
+- title: Fidelity
+  description: New global wealth product. Node microservices on AWS Serverless technologies.
+  url: https://wealthexpert.fidelity.de/
+  icon: attach_money
