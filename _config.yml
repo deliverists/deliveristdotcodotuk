@@ -3,6 +3,7 @@ production_url: 'https://deliverist.co.uk'
 baseurl: ''
 encoding: utf-8
 syntax_highlighting: true
+theme: null
 markdown: kramdown
 permalink: pretty
 plugins:

@@ -6,8 +6,4 @@ $spacing-unit:     30px !default;
 }
 
 @import "syntax-highlighting";
-@import "mui/mui";
-
-body {
-  background-color: mui-color('purple', '700');
-}
+@import "materialize/main";
