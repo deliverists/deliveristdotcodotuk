@@ -9,4 +9,3 @@ plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-minifier
-github: [metadata]
