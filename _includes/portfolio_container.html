@@ -1,6 +1,10 @@
-<div class="container" style="padding:20px;">
-  <div id="portfolio" class="section scrollspy">
-    <h3 style="text-align:center;">{{site.portfolio_heading}}</h3>
-    {% include portfolio_{{site.portfolio_type}}.html %}
+<div class="container">
+  <h2 class="center-align">Our clients</h2>
+  <div class="section">
+    <div class="row">
+    {% for project in site.data.projects %}
+      {% include portfolio_card.html project=project %}
+    {% endfor %}
+    </div>
   </div>
 </div>
