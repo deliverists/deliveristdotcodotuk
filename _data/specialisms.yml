@@ -1,12 +1,12 @@
 - title: Serverless
-  description: 
-  image:
-  icon:
-- title: React
-  description: 
-  image:
-  icon:
+  description: We specialise in serverless technologies specifically on AWS. We believe that focusing on serverless allows you to bring a product to market significantly faster and cheaper if done right. We can help with that. Focusing on AWS has allowed us to get deep and broad knowledge of their offering so we can save you the "discovery" pain.
+  image: aws.png
+  icon: cloud_queue
+- title: ReactJS
+  description: We specialise in building "single page applications" using React. We have specialised on React as a fantastic UI technology to build an SPA. We bring all that deep focused expertise to you.
+  image: reactjs.png
+  icon: web
 - title: Agile
-  description: 
+  description: Digital tranformations, building great delivery teams, building in lean/ "just in time" production techniques, we have done it all.
   image:
-  icon:
+  icon: people_outline
