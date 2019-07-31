@@ -1,13 +1,13 @@
 <div class="col s12 m4">
-  <div class="icon-block">
-    <h5 class="center">
-    <h2 class="center brown-text"><i class="material-icons">{{include.project.icon}}</i></h2>
+  <div class="card large">
+    <div class="card-image">
       <a href="{{include.project.url}}">
-      <div class="center">
-      <img src="{{site.baseurl}}/assets/images/{{include.project.image}}" alt="{{include.project.title}}" height="80px">
-      </div>
+      <img src="{{site.baseurl}}/assets/images/{{include.project.image}}" alt="{{include.project.title}}">
       </a>
-    </h5>
-    <p class="light">{{include.project.description}}</p>
+    </div>
+    <div class="card-content">
+      <h2 class="center brown-text"><i class="material-icons">{{include.project.icon}}</i></h2>
+      <p class="light">{{include.project.description}}</p>
+    </div>
   </div>
 </div>

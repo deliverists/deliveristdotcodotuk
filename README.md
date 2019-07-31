@@ -4,6 +4,8 @@
 
 ### day 1
 
+ * finish specialisms data - needs description, icons and image
+ * add title to art image: "a measure of art, a focus of engineering and an underpinning in science." or something better!
  * style specialists in cards
  * icons for specialists cards
  * cards for clients
@@ -13,6 +15,8 @@
 
 ### day 2
 
+ * when no network - takes ages to load - which means we have a blocking external network request - get rid of it!
+ * same card heights?
  * cookies notice
  * add google tracking
  * new photo for find us - outside navigation
