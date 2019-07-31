@@ -1,9 +1,11 @@
 <div class="col s12 m4">
   <div class="icon-block">
-    <h2 class="center brown-text"><i class="material-icons">{{include.project.icon}}</i></h2>
     <h5 class="center">
+    <h2 class="center brown-text"><i class="material-icons">{{include.project.icon}}</i></h2>
       <a href="{{include.project.url}}">
-        {{include.project.title}}
+      <div class="center">
+      <img src="{{site.baseurl}}/assets/images/{{include.project.image}}" alt="{{include.project.title}}" height="80px">
+      </div>
       </a>
     </h5>
     <p class="light">{{include.project.description}}</p>

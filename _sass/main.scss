@@ -7,3 +7,11 @@ $spacing-unit:     30px !default;
 
 @import "syntax-highlighting";
 @import "materialize/main";
+
+.black-border-text {
+  text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+}
+
+.white-border-text {
+  text-shadow: 1px 0 0 #FFF, 0 -1px 0 #FFF, 0 1px 0 #FFF, -1px 0 0 #FFF;
+}

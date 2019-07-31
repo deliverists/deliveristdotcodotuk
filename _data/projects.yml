@@ -1,12 +1,15 @@
 - title: Waitrose
-  description: Led the rebuild of their frontend as a React/Redux SPA. Part of an agile transformation and replatforming to AWS Serverless technologies.
+  description: We led the rebuild of their frontend as a React/Redux SPA. Part of an agile transformation and replatforming to AWS Serverless technologies.
   url: https://waitrose.com
   icon: local_grocery_store
+  image: waitrose.png
 - title: Fidelity
-  description: New global wealth product. Node microservices on AWS Serverless technologies.
+  description: We helped build a new global wealth product. A discretionary fund management and financial advice system built in node.js microservices on AWS Serverless technologies.
   url: https://wealthexpert.fidelity.de/
-  icon: attach_money
+  icon: euro_symbol
+  image: fidelity-small.png
 - title: Giles Travel
-  description: We helped Giles Travel to build their new digital corporate travel booking product, building out some web services built in .Net to coordinate with a GDS and Expedia.
+  description: We helped Giles Travel to build their new digital corporate travel booking product, building web services in .Net to coordinate with a GDS and Expedia web services.
   url: https://www.gilestravel.com/
   icon: airplanemode_active
+  image: giles.jpg
