@@ -3,10 +3,10 @@
   image: aws.png
   icon: cloud_queue
 - title: ReactJS
-  description: We specialise in building "single page applications" using React. We have specialised on React as a fantastic UI technology to build an SPA. We bring all that deep focused expertise to you.
+  description: We specialise in building "single page applications" using React. We have chosen React as a clear leader and used it in so many projects with so many various tech stacks that we can help you succeed on the front-end with however you are wanting to use it.
   image: reactjs.png
   icon: web
 - title: Agile
-  description: Digital tranformations, building great delivery teams, building in lean/ "just in time" production techniques, we have done it all.
+  description: Digital tranformations; building performing delivery teams; embedding lean/ "just in time" production techniques... we have done it all.
   image:
   icon: people_outline

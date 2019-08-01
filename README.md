@@ -4,11 +4,12 @@
 
 ### day 1
 
- * finish specialisms data - needs description, icons and image
- * add title to art image: "a measure of art, a focus of engineering and an underpinning in science." or something better!
- * style specialists in cards
- * icons for specialists cards
- * cards for clients
+ * get photo of post-it notes/whiteboard pens etc. maybe the skateboard/bike/car lanes for agile logo
+ * improve specialisms descriptions - especially the react one
+ * add subtitles to images?
+    * an engineering mindset, a scientists focus, and a little bit of artistry.
+    * let us help you build your product better.
+ * center heading on specialisms cards
  * contact form - day 1 could be email link, day 2 the form?
  * find us on styling
  * new photo for cover - workbook/ computer etc.

@@ -1,0 +1,13 @@
+cover_image:
+  url: nicks-desktop-2.jpg
+  text: a developers desktop
+
+first_interstitial_image:
+  url: wall-art.jpg
+  text: wall art
+  description: an engineering mindset, a scientists focus, and a little bit of artistry...
+
+second_interstitial_image:
+  url: coat-stand.jpg
+  text: brickwork
+  description: let us help build your product better...
