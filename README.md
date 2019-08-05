@@ -5,8 +5,6 @@
 ### day 1
 
  * improve specialisms descriptions - especially the react one
- * contact form - day 1 could be email link, day 2 the form?
- * find us on styling
 
 ### day 2
 
