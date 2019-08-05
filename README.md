@@ -4,6 +4,8 @@
 
 ### day 2
 
+ * choose better colors/ photo matches
+ * think about going helvetica light black on white like my deliverist deck?
  * large images that look a bit small in responsive mode
  * when no network - takes ages to load - which means we have a blocking external network request - get rid of it!
  * same card heights?
