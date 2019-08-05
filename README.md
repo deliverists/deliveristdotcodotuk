@@ -2,10 +2,6 @@
 
 ## todo
 
-### day 1
-
- * improve specialisms descriptions - especially the react one
-
 ### day 2
 
  * large images that look a bit small in responsive mode

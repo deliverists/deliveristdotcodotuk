@@ -1,12 +1,12 @@
 - title: Serverless
-  description: We specialise in serverless technologies specifically on AWS. We believe that focusing on serverless allows you to bring a product to market significantly faster and cheaper if done right. We can help with that. Focusing on AWS has allowed us to get deep and broad knowledge of their offering so we can save you the "discovery" pain.
+  description: We specialise in serverless technologies specifically on AWS. We believe that focusing on serverless allows you to bring a product to market significantly faster and cheaper when done right. Because we only build on a very curated technology stack, chosen by us, we start building business value very quickly. Focusing on an AWS serverless stack has allowed us to get deep and broad knowledge of their offering so we can save you the "discovery" pain.
   image: aws.png
   icon: cloud_queue
 - title: ReactJS
-  description: We specialise in building "single page applications" using React. We have chosen React as a clear leader and used it in so many projects with so many various tech stacks that we can help you succeed on the front-end with however you are wanting to use it.
+  description: We specialise in building "single page applications" using React. We have chosen React as a clear leader and used it in many projects with so many various tech stacks including Redux and MobX that we can help you succeed on the front-end with however you want to use it. We also believe in React Native as an excellent complement to React for your iOS and Android app.
   image: reactjs.png
   icon: web
 - title: Agile
-  description: Digital tranformations; building performing delivery teams; embedding lean/ "just in time" production techniques... we have done it all.
+  description: Digital tranformations; building performing delivery teams; embedding lean/ "just in time" production techniques... we have done it all. We are experienced in the complexities in hiring great developers and then helping a business maximise their value. We have been involved with some leading companies agile transformations helping them move into true agile ways of working.
   image: agile.jpg
   icon: people_outline
