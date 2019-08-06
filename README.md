@@ -2,6 +2,10 @@
 
 ## todo
 
+### issues:
+
+ * no www
+
 ### day 2
 
  * choose better colors/ photo matches
